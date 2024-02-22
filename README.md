@@ -10,3 +10,5 @@ function login() {
     alert("Login failed. Please check your credentials.");
   }
 }
+// Ganti example.com dengan domain sesuai proyek Anda
+window.location.href = "https://domain-anda.com/dashboard";
